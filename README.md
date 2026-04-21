@@ -135,6 +135,3 @@ The model predicts whether an input image belongs to:
 - Matplotlib  
 - Flask  
 
----
-
-## 📁 Project Structure

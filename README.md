@@ -141,4 +141,4 @@ The model predicts whether an input image belongs to:
 The trained model is large and not included in this repository.
 
 Download it here:
-👉 [Download Model](PASTE_YOUR_GOOGLE_DRIVE_LINK)
+👉 [Download Model](https://drive.google.com/file/d/19XjNMHcFkMeFYfyIUPyXlw3rSW24MbjG/view?usp=drive_link)

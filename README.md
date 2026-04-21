@@ -135,3 +135,10 @@ The model predicts whether an input image belongs to:
 - Matplotlib  
 - Flask  
 
+
+## 📦 Model Download
+
+The trained model is large and not included in this repository.
+
+Download it here:
+👉 [Download Model](PASTE_YOUR_GOOGLE_DRIVE_LINK)
